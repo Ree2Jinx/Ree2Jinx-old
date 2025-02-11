@@ -1,4 +1,4 @@
-# Ree2Jinx
+# Ree2Jinx (Codename ImaginaryConsoleEmulator)
 Attempting to make a NS2 emulator pre-release.
 
 ## NOTE
